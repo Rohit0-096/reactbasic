@@ -1,1 +1,1 @@
-console.log(2+15);
+console.log(2*9);
